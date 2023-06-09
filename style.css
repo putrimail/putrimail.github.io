@@ -1,0 +1,28 @@
+/* color custom */
+.bg-kul {
+  background-color: #efebe0;
+}
+.bg-hg {
+  background-color: #303b2e;
+}
+.bg-nav {
+  background-color: #d1b586;
+}
+.padtp1 {
+  padding-top: 4rem;
+}
+.padtp2 {
+  padding-top: 15rem;
+}
+.padtp3 {
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+}
+.text-kul {
+  color: #efebe0;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
